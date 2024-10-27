@@ -1,6 +1,6 @@
 ### Hi, I'm Sunay!
 ***
-I am a student at Minuteman Regional High School who is learning to code. Thats it for now
+I am a student at Minuteman Regional High School who is learning to code. There is not much here yet, but hopefully, my profile will fill itself out as I keep working on projects. I currently mainly code as part of my school's FIRST Robotics Team.
 
 
 ### 📊 Statistics
